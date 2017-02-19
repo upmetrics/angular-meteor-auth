@@ -39,8 +39,6 @@
     "webpack"
   ],
   "dependencies": {
-    "angular": "^1.4.4",
-    "angular-meteor": "~1.3.9",
-    "meteor-client-side": "~0.2.2"
+    "angular": "^1.4.4"    
   }
 }
